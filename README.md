@@ -1,7 +1,7 @@
 # C++ Library for FPS_GT511C3_ATmega32U4
 
-Finger Print Sensor GT-511C3
-Created By ADH Technologies and distributed by [Sparkfun](https://www.sparkfun.com/)
+## Finger Print Sensor GT-511C3
+Created By ADH Technologies and distributed by [Sparkfun](https://www.sparkfun.com/).
 
 Data Sheet
 ==========
